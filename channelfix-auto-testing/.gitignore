@@ -1,0 +1,5 @@
+*.log
+*.xml
+local_settings.py
+report/app/*/
+report/web/*/

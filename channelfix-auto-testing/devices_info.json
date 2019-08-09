@@ -1,0 +1,32 @@
+{
+  "H9R7N18316003326": {
+    "platformName": "Android",
+    "platformVersion": "8.0.0",
+    "deviceName": "华为FLA-TL10"
+  },
+  "464f386": {
+    "platformName": "Android",
+    "platformVersion": "6.0.1",
+    "deviceName": "OPPO A57t"
+  },
+  "febe962a0105": {
+    "platformName": "Android",
+    "platformVersion": "8.1.0",
+    "deviceName": "Redmi 6 Pro"
+  },
+  "9c95cced": {
+    "platformName": "Android",
+    "platformVersion": "7.1.2",
+    "deviceName": "vivo x9i"
+  },
+  "34f44e5d": {
+    "platformName": "Android",
+    "platformVersion": "7.1.2",
+    "deviceName": "努比亚 NX612J"
+  },
+  "d01bb83d": {
+     "platformName": "Android",
+     "platformVersion": "5.1.1",
+     "deviceName": "vivo Xplay5A"
+  }
+}
